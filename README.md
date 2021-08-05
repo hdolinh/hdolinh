@@ -9,4 +9,4 @@ I am a MEDS candidate at UCSB's Bren School for Environmental Science & Manageme
 - 💬 I’m looking to chat about data science projects related to environmental justice, food waste, or climate science.
 - 🤔 I’m looking for help with best data science practices.
 - 📫 How to reach me: halina@bren.ucsb.edu
-- ⚡ Fun fact: I have camped for 100 days straight in beautiful Californa.
+- 🏕 Fun fact: I have camped for 100 days straight in beautiful Californa.
