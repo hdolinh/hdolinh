@@ -2,7 +2,7 @@
 
 *Pronouns (she/her/hers)*
 
-👩🏽‍💻 I am a Master's student of Environmental Data Science at UCSB's Bren School for Environmental Science & Management. My long-term goal is to apply data science to finding equitable solutions for environmental issues affecting urban watersheds. 
+👩🏽‍💻 I am a Master's student of Environmental Data Science at UCSB's Bren School for Environmental Science & Management. My long-term goal is to apply data science to find equitable solutions for environmental issues affecting urban watersheds. 
 
 ♻️ Most recently, I was a Climate & Energy Fellow at CalRecycle where I developed energy efficiency resources for recycled-content product manufacturers in California. 
 
