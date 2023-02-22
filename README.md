@@ -2,16 +2,17 @@
 
 *Pronouns (she/her/hers)*
 
-👩🏽‍💻 I am a recent graduate from the <a href="https://ucsb-meds.github.io/">Master's of Environmental Data Science program</a> at UCSB's Bren School for Environmental Science & Management. My long-term goal is to apply data science to find equitable solutions for environmental issues affecting urban watersheds. 
+👩🏽‍💻 I am the [Learning Hub](https://www.nceas.ucsb.edu/learning-hub) Program Manager at [NCEAS](https://www.nceas.ucsb.edu/) and work on data science training programs hosted in the Learning Hub, and support scientists and their data science goals.
 
-✨ Currently, I am an R Shiny Developer Fellow at the Bren School where I am designing, developing, and deploying a Shiny dashboard that communicates data related to their graduate programs.
+🎓 I am an alumni of the [Master's of Environmental Data Science](https://ucsb-meds.github.io/) inagural cohort - a graduate program at UCSB's Bren School for Environmental Science & Management. 
 
-♻️ Previously, I was a Climate & Energy Fellow at CalRecycle where I developed energy efficiency resources for recycled-content product manufacturers in California. 
+✨ Previously, I was the R Shiny Developer Fellow at the Bren School where I designed, developed, and deployed the [Bren Student Data Explorer](https://shinyapps.bren.ucsb.edu/student-data-explorer/) - a Shiny dashboard that communicates career outcomes and student demographics of Bren graduate students.
 
-🤝 <a href="https://www.linkedin.com/in/halinadolinh/">Connect</a> with me to chat about...
-- books (<a href="https://www.goodreads.com/user/show/27861467-halina-do-linh">my most recent read</a>)
+🤝 [Connect](https://www.linkedin.com/in/halinadolinh/) with me to chat about...
+- books ([my most recent read](https://www.goodreads.com/user/show/27861467-halina-do-linh))
 - camping / outdoor recreation (fun fact: I once camped for 100 days straight)
 - enviromental justice 
-- R best practices
+- shiny apps
+- data viz 
 - food (big fan of bun cha gio and tacos)
 - and more!
