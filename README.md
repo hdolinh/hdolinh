@@ -2,11 +2,16 @@
 
 *Pronouns (she/her/hers)*
 
-👩🏽‍💻 I am the [Learning Hub](https://www.nceas.ucsb.edu/learning-hub) Program Manager at [NCEAS](https://www.nceas.ucsb.edu/) and work on data science training programs hosted in the Learning Hub, and support scientists and their data science goals.
+👩🏽‍💻 I am a Data Analyst at the City of Los Angeles, Department of Transportation. I work on a variety of project related to new mobility and technologies in transportation (think: delivery robots, autonomous vechiles, e-bikes).
 
 🎓 I am an alumni of the [Master's of Environmental Data Science](https://ucsb-meds.github.io/) inagural cohort - a graduate program at UCSB's Bren School for Environmental Science & Management. 
 
-✨ Previously, I was the R Shiny Developer Fellow at the Bren School where I designed, developed, and deployed the [Bren Student Data Explorer](https://shinyapps.bren.ucsb.edu/student-data-explorer/) - a Shiny dashboard that communicates career outcomes and student demographics of Bren graduate students.
+✨ Previously, I was the [Learning Hub](https://www.nceas.ucsb.edu/learning-hub) Program Manager at [NCEAS](https://www.nceas.ucsb.edu/) and worked on data science training programs hosted in the Learning Hub, and supported scientists and their data science goals.
+
+🤓 Some of my other projects:
+
+- [Bren Student Data Explorer](https://shinyapps.bren.ucsb.edu/student-data-explorer/) - a Shiny dashboard that communicates career outcomes and student demographics of Bren graduate students. Designed, developed, and deployed by me :-)
+- [Outdoor Equity App](https://github.com/outdoor-equity/) - a Shiny web app developed by me and [Clarissa Boyajian](https://cboyajian.github.io/) to explore patterns of visitor use of reservable overnight sites (such as campgrounds, cabins, hike-in, and more) to support equitable access to the outdoors.
 
 🤝 [Connect](https://www.linkedin.com/in/halinadolinh/) with me to chat about...
 - books ([my most recent read](https://www.goodreads.com/user/show/27861467-halina-do-linh))
