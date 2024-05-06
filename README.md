@@ -16,8 +16,8 @@
 🤝 [Connect](https://www.linkedin.com/in/halinadolinh/) with me to chat about...
 - books ([my most recent read](https://www.goodreads.com/user/show/27861467-halina-do-linh))
 - camping / outdoor recreation (fun fact: I once camped for 100 days straight)
-- enviromental justice 
+- enviromental justice
+- coding in R
 - shiny apps
 - data viz 
 - food (big fan of bun cha gio and tacos)
-- and more!
