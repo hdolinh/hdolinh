@@ -2,7 +2,7 @@
 
 *Pronouns (she/her/hers)*
 
-👩🏽‍💻 I am a Data Analyst at the City of Los Angeles, Department of Transportation. I work on projects related to new mobility and technologies in transportation (think: delivery robots, autonomous vehicles, e-bikes).
+👩🏽‍💻 I am a Data Analyst at the City of Los Angeles, Department of Transportation. I work on projects related to new mobility and technologies in transportation (think: delivery robots, autonomous vehicles, e-bikes, scooters).
 
 🎓 I am an alumnus of the [Master's of Environmental Data Science](https://ucsb-meds.github.io/) inaugural cohort - a graduate program at UCSB's Bren School for Environmental Science & Management. 
 
