@@ -2,9 +2,9 @@
 
 *Pronouns (she/her/hers)*
 
-👩🏽‍💻 I am a Data Analyst at the City of Los Angeles, Department of Transportation. I work on a variety of project related to new mobility and technologies in transportation (think: delivery robots, autonomous vechiles, e-bikes).
+👩🏽‍💻 I am a Data Analyst at the City of Los Angeles, Department of Transportation. I work on projects related to new mobility and technologies in transportation (think: delivery robots, autonomous vehicles, e-bikes).
 
-🎓 I am an alumni of the [Master's of Environmental Data Science](https://ucsb-meds.github.io/) inagural cohort - a graduate program at UCSB's Bren School for Environmental Science & Management. 
+🎓 I am an alumnus of the [Master's of Environmental Data Science](https://ucsb-meds.github.io/) inaugural cohort - a graduate program at UCSB's Bren School for Environmental Science & Management. 
 
 ✨ Previously, I was the [Learning Hub](https://www.nceas.ucsb.edu/learning-hub) Program Manager at [NCEAS](https://www.nceas.ucsb.edu/) and worked on data science training programs hosted in the Learning Hub, and supported scientists and their data science goals.
 
