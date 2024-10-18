@@ -13,7 +13,7 @@
 - [Bren Student Data Explorer](https://shinyapps.bren.ucsb.edu/student-data-explorer/) - a Shiny dashboard that communicates career outcomes and student demographics of Bren graduate students. Designed, developed, and deployed by me :-)
 - [Outdoor Equity App](https://github.com/outdoor-equity/) - a Shiny web app developed by me and [Clarissa Boyajian](https://cboyajian.github.io/) to explore patterns of visitor use of reservable overnight sites (such as campgrounds, cabins, hike-in, and more) to support equitable access to the outdoors.
 
-🤝 [Connect](https://www.linkedin.com/in/halinadolinh/) with me to chat about...
+🤝 Connect with me to chat about...
 - books ([my most recent read](https://www.goodreads.com/user/show/27861467-halina-do-linh))
 - camping / outdoor recreation (fun fact: I once camped for 100 days straight)
 - enviromental justice
